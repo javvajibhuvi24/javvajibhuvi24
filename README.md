@@ -14,14 +14,10 @@ Hi 👋, I'm Javvaji Bhuvi, a Computer Science Student.
 
 [![](https://visitcount.itsvg.in/api?id=javvajibhuvi24&icon=0&color=0)]
 
+
+
 <br clear="both">
 
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/javvajibhuvi24/javvajibhuvi24/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/javvajibhuvi24/javvajibhuvi24/output/github-snake.svg" />
-  <img src="https://raw.githubusercontent.com/javvajibhuvi24/javvajibhuvi24/output/snake.svg" alt="Snake animation" />
-
-</picture>
+<img src="https://raw.githubusercontent.com/javvajibhuvi24/javvajibhuvi24/output/snake.svg" alt="Snake animation" />
 
 ###
